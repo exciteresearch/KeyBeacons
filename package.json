@@ -1,7 +1,7 @@
 {
-  "name": "linkarchive",
+  "name": "keybeacons",
   "version": "1.0.0",
-  "description": "LinkArchive: An Ionic project",
+  "description": "KeyBeacons: An Ionic project with Gimbal Beacons and ATT Call Direcion API",
   "dependencies": {
     "aws-sdk": "^2.2.9",
     "gulp": "^3.5.6",
@@ -32,34 +32,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exciteresearch/LinkArchive.git"
+    "url": "git+https://github.com/exciteresearch/KeyBeacons.git"
   },
   "keywords": [
     "Link",
     "Archive",
     "Mobile",
     "App",
-    "Archives",
-    "Links",
-    "Slack",
     "PhoneGap",
     "Cordova",
     "Ionic",
     "Angular",
-    "Slack",
+    "AT&T",
     "API",
-    "AWS",
-    "Mobile",
-    "SDK",
     "iOS",
     "Windows",
-    "Lambda",
-    "Gateway"
+    "Gimball",
+    "Beacons",
+    "Call",
+    "Direction"
   ],
-  "author": "Ryan Bronz, Evan Lim, DJ Nadgar",
+  "author": "DJ Nadgar",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/exciteresearch/LinkArchive/issues"
+    "url": "https://github.com/exciteresearch/KeyBeacons/issues"
   },
-  "homepage": "https://github.com/exciteresearch/LinkArchive#readme"
+  "homepage": "https://github.com/exciteresearch/KeyBeacons/#readme"
 }
